@@ -1,4 +1,4 @@
-const tecnologias = ['java', 'react', 'node', 'python', 'php']
+const tecnologias = ['placa', 'retrovisor', 'farol', 'freio', 'buzina']
 const palavraSecreta =
   tecnologias[Math.floor(Math.random() * tecnologias.length)]
 const letrasErradas = []

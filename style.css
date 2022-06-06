@@ -10,6 +10,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+p {
+  font-size: 30px;
+}
+
 .jogo-container {
   display: flex;
   justify-content: space-evenly;
@@ -95,5 +99,4 @@ body {
 
 footer {
   margin-top: 60px;
-  font-size: 20px;
-}
+  }
